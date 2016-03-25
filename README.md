@@ -1,0 +1,1 @@
+#python cgi script example
